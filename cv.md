@@ -4,7 +4,7 @@
 
 * GitHub    | [yunonvlad](http://github.com/yunonvlad) 
 * Vk        | [Vlad Borovskoy](https://vk.com/id152602723) 
-* Telegram  | [vlad_borosvkoy](t.me/vlad_borovskoy)
+* Telegram  | [vlad_borosvkoy](https://t.me/vlad_borovskoy)
 * Email     | yancity.union@gmail.com
 
 <h2>Summary</h2>
