@@ -19,11 +19,12 @@
 
 <h2>Code examples</h2>
 
-<p>At the moment i don't have code examples, but in near feture apper apper soon</p>
+<p>At the moment i don't have code examples, but in near feture apper soon</p>
 
 <h2>Edcucation</h2>
 <p>BNTU (since 2017), The Faculty of Mining Engineering and Geology</p>
 <p>Department: Mining Machines</p>
+
 
 
 
